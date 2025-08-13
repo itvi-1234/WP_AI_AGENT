@@ -1,0 +1,3 @@
+client_name,sentiment,catalog,suggestions,last_reply,list_of_convo
++91 30238 88888,neutral,True,No,5-6 din bs,"[{""client_message"": ""delivery ka kya seen hai"", ""reply"": ""5-6 din bs""}]"
++91 83028 07895,Neutral,False,Aapko apna store Delhi me bhi kholna chahiye,Milte hain jaldi bye!,"[{""client_message"": null, ""reply"": ""Okay!""}, {""client_message"": ""Thank you"", ""reply"": ""You're welcome!""}, {""client_message"": ""Milte h zld bye"", ""reply"": ""Milte hain jaldi bye!""}]"
